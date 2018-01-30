@@ -8,3 +8,5 @@ It is just a webview that can handle `blockstack:` scheme
 1. Install the app e.g. from [https://play.google.com/apps/testing/de.friedger.blockstackandroid](https://play.google.com/apps/testing/de.friedger.blockstackandroid)
 1. Open it
 1. See the apps on blockstack or type the url
+
+Debugging the webview is enabled.
