@@ -1,4 +1,4 @@
-# blockstack-android
+# [deprecated] blockstack-android (blockstack.org now handles auth on mobile)
 
 Proof of concept for browsing the decentralized web with support for authentication and storage for the Blockstack API.
 
